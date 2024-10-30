@@ -8,7 +8,7 @@
     <version>4.0-SNAPSHOT</version>
     <name>Spinkit Add-on Root Project</name>
     <prerequisites>
-        <maven>3.8</maven>
+        <maven>3.6</maven>
     </prerequisites>
 
 	<organization>
